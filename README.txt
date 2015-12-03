@@ -55,6 +55,10 @@ when user asks for a space, it searches RAM. If there is available slot, record 
 when access, if the page is in RAM, return directly. Otherwise find pages to evict and swap it to RAM.
 
 
+------------------------------------
+run make to compile
+
+------------------------------------
 in evict1:
 eviction algorithm is least visited
 
