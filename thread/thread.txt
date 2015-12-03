@@ -1,0 +1,228 @@
+emptySlot in array 1, 0
+page table 0, target -9999
+recorded in pagetable: 0 
+user 33554432 allocatedNewInt returns: 0
+emptySlot in array 1, 1
+page table 1, target -9999
+recorded in pagetable: 1 
+user 33554432 allocatedNewInt returns: 1
+user 33554432, value is 33554432 
+
+RAM INFO
+allocated  lock	   data
+1	    0	    33554432	
+1	    0	    33554432	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+
+emptySlot in array 1, 0
+page table 0, target -9999
+recorded in pagetable: 0 
+user 1 allocatedNewInt returns: 0
+emptySlot in array 1, 1
+page table 1, target -9999
+recorded in pagetable: 1 
+user 1 allocatedNewInt returns: 1
+user 1, value is 1 
+
+RAM INFO
+allocated  lock	   data
+1	    0	    1	
+1	    0	    1	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+
+emptySlot in array 1, 0
+page table 0, target -9999
+recorded in pagetable: 0 
+user 256 allocatedNewInt returns: 0
+emptySlot in array 1, 1
+page table 1, target -9999
+recorded in pagetable: 1 
+user 256 allocatedNewInt returns: 1
+user 256, value is 256 
+
+RAM INFO
+allocated  lock	   data
+1	    0	    256	
+1	    0	    256	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+
+emptySlot in array 1, 0
+page table 0, target -9999
+recorded in pagetable: 0 
+user 65536 allocatedNewInt returns: 0
+emptySlot in array 1, 1
+page table 1, target -9999
+recorded in pagetable: 1 
+user 65536 allocatedNewInt returns: 1
+user 65536, value is 65536 
+
+RAM INFO
+allocated  lock	   data
+1	    0	    65536	
+1	    0	    65536	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+
+emptySlot in array 1, 0
+page table 0, target -9999
+recorded in pagetable: 0 
+user 16777216 allocatedNewInt returns: 0
+emptySlot in array 1, 1
+page table 1, target -9999
+recorded in pagetable: 1 
+user 16777216 allocatedNewInt returns: 1
+user 16777216, value is 16777216 
+
+RAM INFO
+allocated  lock	   data
+1	    0	    16777216	
+1	    0	    16777216	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+
+emptySlot in array 1, 0
+page table 0, target -9999
+recorded in pagetable: 0 
+user 0 allocatedNewInt returns: 0
+emptySlot in array 1, 1
+page table 1, target -9999
+recorded in pagetable: 1 
+user 0 allocatedNewInt returns: 1
+user 0, value is 0 
+
+RAM INFO
+allocated  lock	   data
+1	    0	    0	
+1	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+0	    0	    0	
+

@@ -1,0 +1,1230 @@
+recorded in pagetable: 0 
+user 33554432 allocatedNewInt returns: 0
+recorded in pagetable: 1 
+user 33554432 allocatedNewInt returns: 1
+recorded in pagetable: 2 
+user 33554432 allocatedNewInt returns: 2
+recorded in pagetable: 3 
+user 33554432 allocatedNewInt returns: 3
+recorded in pagetable: 4 
+user 33554432 allocatedNewInt returns: 4
+recorded in pagetable: 5 
+user 33554432 allocatedNewInt returns: 5
+recorded in pagetable: 6 
+user 33554432 allocatedNewInt returns: 6
+recorded in pagetable: 7 
+user 33554432 allocatedNewInt returns: 7
+recorded in pagetable: 8 
+user 33554432 allocatedNewInt returns: 8
+recorded in pagetable: 9 
+user 33554432 allocatedNewInt returns: 9
+recorded in pagetable: 10 
+user 33554432 allocatedNewInt returns: 10
+recorded in pagetable: 11 
+user 33554432 allocatedNewInt returns: 11
+recorded in pagetable: 12 
+user 33554432 allocatedNewInt returns: 12
+recorded in pagetable: 13 
+user 33554432 allocatedNewInt returns: 13
+recorded in pagetable: 14 
+user 33554432 allocatedNewInt returns: 14
+recorded in pagetable: 15 
+user 33554432 allocatedNewInt returns: 15
+recorded in pagetable: 16 
+user 33554432 allocatedNewInt returns: 16
+recorded in pagetable: 17 
+user 33554432 allocatedNewInt returns: 17
+recorded in pagetable: 18 
+user 33554432 allocatedNewInt returns: 18
+recorded in pagetable: 19 
+user 33554432 allocatedNewInt returns: 19
+recorded in pagetable: 20 
+user 33554432 allocatedNewInt returns: 20
+recorded in pagetable: 21 
+user 33554432 allocatedNewInt returns: 21
+recorded in pagetable: 22 
+user 33554432 allocatedNewInt returns: 22
+recorded in pagetable: 23 
+user 33554432 allocatedNewInt returns: 23
+recorded in pagetable: 24 
+user 33554432 allocatedNewInt returns: 24
+recorded in pagetable: 25 
+user 33554432 allocatedNewInt returns: 25
+recorded in pagetable: 26 
+user 33554432 allocatedNewInt returns: 26
+recorded in pagetable: 27 
+user 33554432 allocatedNewInt returns: 27
+recorded in pagetable: 28 
+user 33554432 allocatedNewInt returns: 28
+recorded in pagetable: 29 
+user 33554432 allocatedNewInt returns: 29
+recorded in pagetable: 30 
+user 33554432 allocatedNewInt returns: 30
+recorded in pagetable: 31 
+user 33554432 allocatedNewInt returns: 31
+recorded in pagetable: 32 
+user 33554432 allocatedNewInt returns: 32
+recorded in pagetable: 33 
+user 33554432 allocatedNewInt returns: 33
+recorded in pagetable: 34 
+user 33554432 allocatedNewInt returns: 34
+recorded in pagetable: 35 
+user 33554432 allocatedNewInt returns: 35
+recorded in pagetable: 36 
+user 33554432 allocatedNewInt returns: 36
+recorded in pagetable: 37 
+user 33554432 allocatedNewInt returns: 37
+recorded in pagetable: 38 
+user 33554432 allocatedNewInt returns: 38
+recorded in pagetable: 39 
+user 33554432 allocatedNewInt returns: 39
+recorded in pagetable: 40 
+user 33554432 allocatedNewInt returns: 40
+recorded in pagetable: 41 
+user 33554432 allocatedNewInt returns: 41
+recorded in pagetable: 42 
+user 33554432 allocatedNewInt returns: 42
+recorded in pagetable: 43 
+user 33554432 allocatedNewInt returns: 43
+recorded in pagetable: 44 
+user 33554432 allocatedNewInt returns: 44
+recorded in pagetable: 45 
+user 33554432 allocatedNewInt returns: 45
+recorded in pagetable: 46 
+user 33554432 allocatedNewInt returns: 46
+recorded in pagetable: 47 
+user 33554432 allocatedNewInt returns: 47
+recorded in pagetable: 48 
+user 33554432 allocatedNewInt returns: 48
+recorded in pagetable: 49 
+user 33554432 allocatedNewInt returns: 49
+recorded in pagetable: 50 
+user 33554432 allocatedNewInt returns: 50
+recorded in pagetable: 51 
+user 33554432 allocatedNewInt returns: 51
+recorded in pagetable: 52 
+user 33554432 allocatedNewInt returns: 52
+recorded in pagetable: 53 
+user 33554432 allocatedNewInt returns: 53
+recorded in pagetable: 54 
+user 33554432 allocatedNewInt returns: 54
+recorded in pagetable: 55 
+user 33554432 allocatedNewInt returns: 55
+recorded in pagetable: 56 
+user 33554432 allocatedNewInt returns: 56
+recorded in pagetable: 57 
+user 33554432 allocatedNewInt returns: 57
+recorded in pagetable: 58 
+user 33554432 allocatedNewInt returns: 58
+recorded in pagetable: 59 
+user 33554432 allocatedNewInt returns: 59
+recorded in pagetable: 60 
+user 33554432 allocatedNewInt returns: 60
+recorded in pagetable: 61 
+user 33554432 allocatedNewInt returns: 61
+recorded in pagetable: 62 
+user 33554432 allocatedNewInt returns: 62
+recorded in pagetable: 63 
+user 33554432 allocatedNewInt returns: 63
+recorded in pagetable: 64 
+user 33554432 allocatedNewInt returns: 64
+recorded in pagetable: 65 
+user 33554432 allocatedNewInt returns: 65
+recorded in pagetable: 66 
+user 33554432 allocatedNewInt returns: 66
+recorded in pagetable: 67 
+user 33554432 allocatedNewInt returns: 67
+recorded in pagetable: 68 
+user 33554432 allocatedNewInt returns: 68
+recorded in pagetable: 69 
+user 33554432 allocatedNewInt returns: 69
+recorded in pagetable: 70 
+user 33554432 allocatedNewInt returns: 70
+recorded in pagetable: 71 
+user 33554432 allocatedNewInt returns: 71
+recorded in pagetable: 72 
+user 33554432 allocatedNewInt returns: 72
+recorded in pagetable: 73 
+user 33554432 allocatedNewInt returns: 73
+recorded in pagetable: 74 
+user 33554432 allocatedNewInt returns: 74
+recorded in pagetable: 75 
+user 33554432 allocatedNewInt returns: 75
+recorded in pagetable: 76 
+user 33554432 allocatedNewInt returns: 76
+recorded in pagetable: 77 
+user 33554432 allocatedNewInt returns: 77
+recorded in pagetable: 78 
+user 33554432 allocatedNewInt returns: 78
+recorded in pagetable: 79 
+user 33554432 allocatedNewInt returns: 79
+recorded in pagetable: 80 
+user 33554432 allocatedNewInt returns: 80
+recorded in pagetable: 81 
+user 33554432 allocatedNewInt returns: 81
+recorded in pagetable: 82 
+user 33554432 allocatedNewInt returns: 82
+recorded in pagetable: 83 
+user 33554432 allocatedNewInt returns: 83
+recorded in pagetable: 84 
+user 33554432 allocatedNewInt returns: 84
+recorded in pagetable: 85 
+user 33554432 allocatedNewInt returns: 85
+recorded in pagetable: 86 
+user 33554432 allocatedNewInt returns: 86
+recorded in pagetable: 87 
+user 33554432 allocatedNewInt returns: 87
+recorded in pagetable: 88 
+user 33554432 allocatedNewInt returns: 88
+recorded in pagetable: 89 
+user 33554432 allocatedNewInt returns: 89
+recorded in pagetable: 90 
+user 33554432 allocatedNewInt returns: 90
+recorded in pagetable: 91 
+user 33554432 allocatedNewInt returns: 91
+recorded in pagetable: 92 
+user 33554432 allocatedNewInt returns: 92
+recorded in pagetable: 93 
+user 33554432 allocatedNewInt returns: 93
+recorded in pagetable: 94 
+user 33554432 allocatedNewInt returns: 94
+recorded in pagetable: 95 
+user 33554432 allocatedNewInt returns: 95
+recorded in pagetable: 96 
+user 33554432 allocatedNewInt returns: 96
+recorded in pagetable: 97 
+user 33554432 allocatedNewInt returns: 97
+recorded in pagetable: 98 
+user 33554432 allocatedNewInt returns: 98
+recorded in pagetable: 99 
+user 33554432 allocatedNewInt returns: 99
+recorded in pagetable: 100 
+user 33554432 allocatedNewInt returns: 100
+recorded in pagetable: 101 
+user 33554432 allocatedNewInt returns: 101
+recorded in pagetable: 102 
+user 33554432 allocatedNewInt returns: 102
+recorded in pagetable: 103 
+user 33554432 allocatedNewInt returns: 103
+recorded in pagetable: 104 
+user 33554432 allocatedNewInt returns: 104
+recorded in pagetable: 105 
+user 33554432 allocatedNewInt returns: 105
+recorded in pagetable: 106 
+user 33554432 allocatedNewInt returns: 106
+recorded in pagetable: 107 
+user 33554432 allocatedNewInt returns: 107
+recorded in pagetable: 108 
+user 33554432 allocatedNewInt returns: 108
+recorded in pagetable: 109 
+user 33554432 allocatedNewInt returns: 109
+recorded in pagetable: 110 
+user 33554432 allocatedNewInt returns: 110
+recorded in pagetable: 111 
+user 33554432 allocatedNewInt returns: 111
+recorded in pagetable: 112 
+user 33554432 allocatedNewInt returns: 112
+recorded in pagetable: 113 
+user 33554432 allocatedNewInt returns: 113
+recorded in pagetable: 114 
+user 33554432 allocatedNewInt returns: 114
+recorded in pagetable: 115 
+user 33554432 allocatedNewInt returns: 115
+recorded in pagetable: 116 
+user 33554432 allocatedNewInt returns: 116
+recorded in pagetable: 117 
+user 33554432 allocatedNewInt returns: 117
+recorded in pagetable: 118 
+user 33554432 allocatedNewInt returns: 118
+recorded in pagetable: 119 
+user 33554432 allocatedNewInt returns: 119
+recorded in pagetable: 120 
+user 33554432 allocatedNewInt returns: 120
+recorded in pagetable: 121 
+user 33554432 allocatedNewInt returns: 121
+recorded in pagetable: 122 
+user 33554432 allocatedNewInt returns: 122
+recorded in pagetable: 123 
+user 33554432 allocatedNewInt returns: 123
+recorded in pagetable: 124 
+user 33554432 allocatedNewInt returns: 124
+recorded in pagetable: 125 
+user 33554432 allocatedNewInt returns: 125
+recorded in pagetable: 126 
+user 33554432 allocatedNewInt returns: 126
+recorded in pagetable: 127 
+user 33554432 allocatedNewInt returns: 127
+recorded in pagetable: 128 
+user 33554432 allocatedNewInt returns: 128
+recorded in pagetable: 129 
+user 33554432 allocatedNewInt returns: 129
+recorded in pagetable: 130 
+user 33554432 allocatedNewInt returns: 130
+recorded in pagetable: 131 
+user 33554432 allocatedNewInt returns: 131
+recorded in pagetable: 132 
+user 33554432 allocatedNewInt returns: 132
+recorded in pagetable: 133 
+user 33554432 allocatedNewInt returns: 133
+recorded in pagetable: 134 
+user 33554432 allocatedNewInt returns: 134
+recorded in pagetable: 135 
+user 33554432 allocatedNewInt returns: 135
+recorded in pagetable: 136 
+user 33554432 allocatedNewInt returns: 136
+recorded in pagetable: 137 
+user 33554432 allocatedNewInt returns: 137
+recorded in pagetable: 138 
+user 33554432 allocatedNewInt returns: 138
+recorded in pagetable: 139 
+user 33554432 allocatedNewInt returns: 139
+recorded in pagetable: 140 
+user 33554432 allocatedNewInt returns: 140
+recorded in pagetable: 141 
+user 33554432 allocatedNewInt returns: 141
+recorded in pagetable: 142 
+user 33554432 allocatedNewInt returns: 142
+recorded in pagetable: 143 
+user 33554432 allocatedNewInt returns: 143
+recorded in pagetable: 144 
+user 33554432 allocatedNewInt returns: 144
+recorded in pagetable: 145 
+user 33554432 allocatedNewInt returns: 145
+recorded in pagetable: 146 
+user 33554432 allocatedNewInt returns: 146
+recorded in pagetable: 147 
+user 33554432 allocatedNewInt returns: 147
+recorded in pagetable: 148 
+user 33554432 allocatedNewInt returns: 148
+recorded in pagetable: 149 
+user 33554432 allocatedNewInt returns: 149
+recorded in pagetable: 150 
+user 33554432 allocatedNewInt returns: 150
+recorded in pagetable: 151 
+user 33554432 allocatedNewInt returns: 151
+recorded in pagetable: 152 
+user 33554432 allocatedNewInt returns: 152
+recorded in pagetable: 153 
+user 33554432 allocatedNewInt returns: 153
+recorded in pagetable: 154 
+user 33554432 allocatedNewInt returns: 154
+recorded in pagetable: 155 
+user 33554432 allocatedNewInt returns: 155
+recorded in pagetable: 156 
+user 33554432 allocatedNewInt returns: 156
+recorded in pagetable: 157 
+user 33554432 allocatedNewInt returns: 157
+recorded in pagetable: 158 
+user 33554432 allocatedNewInt returns: 158
+recorded in pagetable: 159 
+user 33554432 allocatedNewInt returns: 159
+recorded in pagetable: 160 
+user 33554432 allocatedNewInt returns: 160
+recorded in pagetable: 161 
+user 33554432 allocatedNewInt returns: 161
+recorded in pagetable: 162 
+user 33554432 allocatedNewInt returns: 162
+recorded in pagetable: 163 
+user 33554432 allocatedNewInt returns: 163
+recorded in pagetable: 164 
+user 33554432 allocatedNewInt returns: 164
+recorded in pagetable: 165 
+user 33554432 allocatedNewInt returns: 165
+recorded in pagetable: 166 
+user 33554432 allocatedNewInt returns: 166
+recorded in pagetable: 167 
+user 33554432 allocatedNewInt returns: 167
+recorded in pagetable: 168 
+user 33554432 allocatedNewInt returns: 168
+recorded in pagetable: 169 
+user 33554432 allocatedNewInt returns: 169
+recorded in pagetable: 170 
+user 33554432 allocatedNewInt returns: 170
+recorded in pagetable: 171 
+user 33554432 allocatedNewInt returns: 171
+recorded in pagetable: 172 
+user 33554432 allocatedNewInt returns: 172
+recorded in pagetable: 173 
+user 33554432 allocatedNewInt returns: 173
+recorded in pagetable: 174 
+user 33554432 allocatedNewInt returns: 174
+recorded in pagetable: 175 
+user 33554432 allocatedNewInt returns: 175
+recorded in pagetable: 176 
+user 33554432 allocatedNewInt returns: 176
+recorded in pagetable: 177 
+user 33554432 allocatedNewInt returns: 177
+recorded in pagetable: 178 
+user 33554432 allocatedNewInt returns: 178
+recorded in pagetable: 179 
+user 33554432 allocatedNewInt returns: 179
+recorded in pagetable: 180 
+user 33554432 allocatedNewInt returns: 180
+recorded in pagetable: 181 
+user 33554432 allocatedNewInt returns: 181
+recorded in pagetable: 182 
+user 33554432 allocatedNewInt returns: 182
+recorded in pagetable: 183 
+user 33554432 allocatedNewInt returns: 183
+recorded in pagetable: 184 
+user 33554432 allocatedNewInt returns: 184
+recorded in pagetable: 185 
+user 33554432 allocatedNewInt returns: 185
+recorded in pagetable: 186 
+user 33554432 allocatedNewInt returns: 186
+recorded in pagetable: 187 
+user 33554432 allocatedNewInt returns: 187
+recorded in pagetable: 188 
+user 33554432 allocatedNewInt returns: 188
+recorded in pagetable: 189 
+user 33554432 allocatedNewInt returns: 189
+recorded in pagetable: 190 
+user 33554432 allocatedNewInt returns: 190
+recorded in pagetable: 191 
+user 33554432 allocatedNewInt returns: 191
+recorded in pagetable: 192 
+user 33554432 allocatedNewInt returns: 192
+recorded in pagetable: 193 
+user 33554432 allocatedNewInt returns: 193
+recorded in pagetable: 194 
+user 33554432 allocatedNewInt returns: 194
+recorded in pagetable: 195 
+user 33554432 allocatedNewInt returns: 195
+recorded in pagetable: 196 
+user 33554432 allocatedNewInt returns: 196
+recorded in pagetable: 197 
+user 33554432 allocatedNewInt returns: 197
+recorded in pagetable: 198 
+user 33554432 allocatedNewInt returns: 198
+recorded in pagetable: 199 
+user 33554432 allocatedNewInt returns: 199
+user 33554432, value is 33554432 
+
+RAM INFO
+allocated  lock	   data
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+1	    0	    33554432	
+
+recorded in pagetable: 0 
+user 1 allocatedNewInt returns: 0
+recorded in pagetable: 1 
+user 256 allocatedNewInt returns: 1
+recorded in pagetable: 2 
+user 256 allocatedNewInt returns: 2
+recorded in pagetable: 3 
+user 256 allocatedNewInt returns: 3
+recorded in pagetable: 4 
+user 256 allocatedNewInt returns: 4
+recorded in pagetable: 5 
+user 256 allocatedNewInt returns: 5
+recorded in pagetable: 6 
+user 256 allocatedNewInt returns: 6
+recorded in pagetable: 7 
+user 256 allocatedNewInt returns: 7
+recorded in pagetable: 8 
+user 256 allocatedNewInt returns: 8
+recorded in pagetable: 9 
+user 256 allocatedNewInt returns: 9
+recorded in pagetable: 10 
+user 256 allocatedNewInt returns: 10
+recorded in pagetable: 11 
+user 256 allocatedNewInt returns: 11
+recorded in pagetable: 12 
+user 256 allocatedNewInt returns: 12
+recorded in pagetable: 13 
+user 256 allocatedNewInt returns: 13
+recorded in pagetable: 14 
+user 256 allocatedNewInt returns: 14
+recorded in pagetable: 15 
+user 256 allocatedNewInt returns: 15
+recorded in pagetable: 16 
+user 256 allocatedNewInt returns: 16
+recorded in pagetable: 17 
+user 256 allocatedNewInt returns: 17
+recorded in pagetable: 18 
+user 256 allocatedNewInt returns: 18
+recorded in pagetable: 19 
+user 256 allocatedNewInt returns: 19
+recorded in pagetable: 20 
+user 256 allocatedNewInt returns: 20
+recorded in pagetable: 21 
+user 256 allocatedNewInt returns: 21
+recorded in pagetable: 22 
+user 256 allocatedNewInt returns: 22
+recorded in pagetable: 23 
+user 256 allocatedNewInt returns: 23
+recorded in pagetable: 24 
+user 256 allocatedNewInt returns: 24
+recorded in pagetable: 25 
+user 256 allocatedNewInt returns: 25
+recorded in pagetable: 26 
+user 256 allocatedNewInt returns: 26
+recorded in pagetable: 27 
+user 256 allocatedNewInt returns: 27
+recorded in pagetable: 28 
+user 256 allocatedNewInt returns: 28
+recorded in pagetable: 29 
+user 256 allocatedNewInt returns: 29
+recorded in pagetable: 30 
+user 256 allocatedNewInt returns: 30
+recorded in pagetable: 31 
+user 256 allocatedNewInt returns: 31
+recorded in pagetable: 32 
+user 256 allocatedNewInt returns: 32
+recorded in pagetable: 33 
+user 256 allocatedNewInt returns: 33
+recorded in pagetable: 34 
+user 256 allocatedNewInt returns: 34
+recorded in pagetable: 35 
+user 256 allocatedNewInt returns: 35
+recorded in pagetable: 36 
+user 256 allocatedNewInt returns: 36
+recorded in pagetable: 37 
+user 256 allocatedNewInt returns: 37
+recorded in pagetable: 38 
+user 256 allocatedNewInt returns: 38
+recorded in pagetable: 39 
+user 256 allocatedNewInt returns: 39
+recorded in pagetable: 40 
+user 256 allocatedNewInt returns: 40
+recorded in pagetable: 41 
+user 256 allocatedNewInt returns: 41
+recorded in pagetable: 42 
+user 256 allocatedNewInt returns: 42
+recorded in pagetable: 43 
+user 256 allocatedNewInt returns: 43
+recorded in pagetable: 44 
+user 256 allocatedNewInt returns: 44
+recorded in pagetable: 45 
+user 256 allocatedNewInt returns: 45
+recorded in pagetable: 46 
+user 256 allocatedNewInt returns: 46
+recorded in pagetable: 47 
+user 256 allocatedNewInt returns: 47
+recorded in pagetable: 48 
+user 256 allocatedNewInt returns: 48
+recorded in pagetable: 49 
+user 256 allocatedNewInt returns: 49
+recorded in pagetable: 50 
+user 256 allocatedNewInt returns: 50
+recorded in pagetable: 51 
+user 256 allocatedNewInt returns: 51
+recorded in pagetable: 52 
+user 256 allocatedNewInt returns: 52
+recorded in pagetable: 53 
+user 256 allocatedNewInt returns: 53
+recorded in pagetable: 54 
+user 256 allocatedNewInt returns: 54
+recorded in pagetable: 55 
+user 256 allocatedNewInt returns: 55
+recorded in pagetable: 56 
+user 256 allocatedNewInt returns: 56
+recorded in pagetable: 57 
+user 256 allocatedNewInt returns: 57
+recorded in pagetable: 58 
+user 256 allocatedNewInt returns: 58
+recorded in pagetable: 59 
+user 256 allocatedNewInt returns: 59
+recorded in pagetable: 60 
+user 256 allocatedNewInt returns: 60
+recorded in pagetable: 61 
+user 256 allocatedNewInt returns: 61
+recorded in pagetable: 62 
+user 256 allocatedNewInt returns: 62
+recorded in pagetable: 63 
+user 256 allocatedNewInt returns: 63
+recorded in pagetable: 64 
+user 256 allocatedNewInt returns: 64
+recorded in pagetable: 65 
+user 256 allocatedNewInt returns: 65
+recorded in pagetable: 66 
+user 256 allocatedNewInt returns: 66
+recorded in pagetable: 67 
+user 256 allocatedNewInt returns: 67
+recorded in pagetable: 68 
+user 256 allocatedNewInt returns: 68
+recorded in pagetable: 69 
+user 256 allocatedNewInt returns: 69
+recorded in pagetable: 70 
+user 256 allocatedNewInt returns: 70
+recorded in pagetable: 71 
+user 256 allocatedNewInt returns: 71
+recorded in pagetable: 72 
+user 256 allocatedNewInt returns: 72
+recorded in pagetable: 73 
+user 256 allocatedNewInt returns: 73
+recorded in pagetable: 74 
+user 256 allocatedNewInt returns: 74
+recorded in pagetable: 75 
+user 256 allocatedNewInt returns: 75
+recorded in pagetable: 76 
+user 256 allocatedNewInt returns: 76
+recorded in pagetable: 77 
+user 256 allocatedNewInt returns: 77
+recorded in pagetable: 78 
+user 256 allocatedNewInt returns: 78
+recorded in pagetable: 79 
+user 256 allocatedNewInt returns: 79
+recorded in pagetable: 80 
+user 256 allocatedNewInt returns: 80
+recorded in pagetable: 81 
+user 256 allocatedNewInt returns: 81
+recorded in pagetable: 82 
+user 256 allocatedNewInt returns: 82
+recorded in pagetable: 83 
+user 256 allocatedNewInt returns: 83
+recorded in pagetable: 84 
+user 256 allocatedNewInt returns: 84
+recorded in pagetable: 85 
+user 256 allocatedNewInt returns: 85
+recorded in pagetable: 86 
+user 256 allocatedNewInt returns: 86
+recorded in pagetable: 87 
+user 256 allocatedNewInt returns: 87
+recorded in pagetable: 88 
+user 256 allocatedNewInt returns: 88
+recorded in pagetable: 89 
+user 256 allocatedNewInt returns: 89
+recorded in pagetable: 90 
+user 256 allocatedNewInt returns: 90
+recorded in pagetable: 91 
+user 256 allocatedNewInt returns: 91
+recorded in pagetable: 92 
+user 256 allocatedNewInt returns: 92
+recorded in pagetable: 93 
+user 256 allocatedNewInt returns: 93
+recorded in pagetable: 94 
+user 256 allocatedNewInt returns: 94
+recorded in pagetable: 95 
+user 256 allocatedNewInt returns: 95
+recorded in pagetable: 96 
+user 256 allocatedNewInt returns: 96
+recorded in pagetable: 97 
+user 256 allocatedNewInt returns: 97
+recorded in pagetable: 98 
+user 256 allocatedNewInt returns: 98
+recorded in pagetable: 99 
+user 256 allocatedNewInt returns: 99
+recorded in pagetable: 100 
+user 256 allocatedNewInt returns: 100
+recorded in pagetable: 101 
+user 256 allocatedNewInt returns: 101
+recorded in pagetable: 102 
+user 256 allocatedNewInt returns: 102
+recorded in pagetable: 103 
+user 256 allocatedNewInt returns: 103
+recorded in pagetable: 104 
+user 256 allocatedNewInt returns: 104
+recorded in pagetable: 105 
+user 256 allocatedNewInt returns: 105
+recorded in pagetable: 106 
+user 256 allocatedNewInt returns: 106
+recorded in pagetable: 107 
+user 256 allocatedNewInt returns: 107
+recorded in pagetable: 108 
+user 256 allocatedNewInt returns: 108
+recorded in pagetable: 109 
+user 256 allocatedNewInt returns: 109
+recorded in pagetable: 110 
+user 256 allocatedNewInt returns: 110
+recorded in pagetable: 111 
+user 256 allocatedNewInt returns: 111
+recorded in pagetable: 112 
+user 256 allocatedNewInt returns: 112
+recorded in pagetable: 113 
+user 256 allocatedNewInt returns: 113
+recorded in pagetable: 114 
+user 256 allocatedNewInt returns: 114
+recorded in pagetable: 115 
+user 256 allocatedNewInt returns: 115
+recorded in pagetable: 116 
+user 256 allocatedNewInt returns: 116
+recorded in pagetable: 117 
+user 256 allocatedNewInt returns: 117
+recorded in pagetable: 118 
+user 256 allocatedNewInt returns: 118
+recorded in pagetable: 119 
+user 256 allocatedNewInt returns: 119
+recorded in pagetable: 120 
+user 256 allocatedNewInt returns: 120
+recorded in pagetable: 121 
+user 256 allocatedNewInt returns: 121
+recorded in pagetable: 122 
+user 256 allocatedNewInt returns: 122
+recorded in pagetable: 123 
+user 256 allocatedNewInt returns: 123
+recorded in pagetable: 124 
+user 256 allocatedNewInt returns: 124
+recorded in pagetable: 125 
+user 256 allocatedNewInt returns: 125
+recorded in pagetable: 126 
+user 256 allocatedNewInt returns: 126
+recorded in pagetable: 127 
+user 256 allocatedNewInt returns: 127
+recorded in pagetable: 128 
+user 256 allocatedNewInt returns: 128
+recorded in pagetable: 129 
+user 256 allocatedNewInt returns: 129
+recorded in pagetable: 130 
+user 256 allocatedNewInt returns: 130
+recorded in pagetable: 131 
+user 256 allocatedNewInt returns: 131
+recorded in pagetable: 132 
+user 256 allocatedNewInt returns: 132
+recorded in pagetable: 133 
+user 256 allocatedNewInt returns: 133
+recorded in pagetable: 134 
+user 256 allocatedNewInt returns: 134
+recorded in pagetable: 135 
+user 256 allocatedNewInt returns: 135
+recorded in pagetable: 136 
+user 256 allocatedNewInt returns: 136
+recorded in pagetable: 137 
+user 256 allocatedNewInt returns: 137
+recorded in pagetable: 138 
+user 256 allocatedNewInt returns: 138
+recorded in pagetable: 139 
+user 256 allocatedNewInt returns: 139
+recorded in pagetable: 140 
+user 256 allocatedNewInt returns: 140
+recorded in pagetable: 141 
+user 256 allocatedNewInt returns: 141
+recorded in pagetable: 142 
+user 256 allocatedNewInt returns: 142
+recorded in pagetable: 143 
+user 256 allocatedNewInt returns: 143
+recorded in pagetable: 144 
+user 256 allocatedNewInt returns: 144
+recorded in pagetable: 145 
+user 256 allocatedNewInt returns: 145
+recorded in pagetable: 146 
+user 256 allocatedNewInt returns: 146
+recorded in pagetable: 147 
+user 256 allocatedNewInt returns: 147
+recorded in pagetable: 148 
+user 256 allocatedNewInt returns: 148
+recorded in pagetable: 149 
+user 256 allocatedNewInt returns: 149
+recorded in pagetable: 150 
+user 256 allocatedNewInt returns: 150
+recorded in pagetable: 151 
+user 256 allocatedNewInt returns: 151
+recorded in pagetable: 152 
+user 256 allocatedNewInt returns: 152
+recorded in pagetable: 153 
+user 256 allocatedNewInt returns: 153
+recorded in pagetable: 154 
+user 256 allocatedNewInt returns: 154
+recorded in pagetable: 155 
+user 256 allocatedNewInt returns: 155
+recorded in pagetable: 156 
+user 256 allocatedNewInt returns: 156
+recorded in pagetable: 157 
+user 256 allocatedNewInt returns: 157
+recorded in pagetable: 158 
+user 256 allocatedNewInt returns: 158
+recorded in pagetable: 159 
+user 256 allocatedNewInt returns: 159
+recorded in pagetable: 160 
+user 256 allocatedNewInt returns: 160
+recorded in pagetable: 161 
+user 256 allocatedNewInt returns: 161
+recorded in pagetable: 162 
+user 256 allocatedNewInt returns: 162
+recorded in pagetable: 163 
+user 256 allocatedNewInt returns: 163
+recorded in pagetable: 164 
+user 256 allocatedNewInt returns: 164
+recorded in pagetable: 165 
+user 256 allocatedNewInt returns: 165
+recorded in pagetable: 166 
+user 256 allocatedNewInt returns: 166
+recorded in pagetable: 167 
+user 256 allocatedNewInt returns: 167
+recorded in pagetable: 168 
+user 256 allocatedNewInt returns: 168
+recorded in pagetable: 169 
+user 256 allocatedNewInt returns: 169
+recorded in pagetable: 170 
+user 256 allocatedNewInt returns: 170
+recorded in pagetable: 171 
+user 256 allocatedNewInt returns: 171
+recorded in pagetable: 172 
+user 256 allocatedNewInt returns: 172
+recorded in pagetable: 173 
+user 256 allocatedNewInt returns: 173
+recorded in pagetable: 174 
+user 256 allocatedNewInt returns: 174
+recorded in pagetable: 175 
+user 256 allocatedNewInt returns: 175
+recorded in pagetable: 176 
+user 256 allocatedNewInt returns: 176
+recorded in pagetable: 177 
+user 256 allocatedNewInt returns: 177
+recorded in pagetable: 178 
+user 256 allocatedNewInt returns: 178
+recorded in pagetable: 179 
+user 256 allocatedNewInt returns: 179
+recorded in pagetable: 180 
+user 256 allocatedNewInt returns: 180
+recorded in pagetable: 181 
+user 256 allocatedNewInt returns: 181
+recorded in pagetable: 182 
+user 256 allocatedNewInt returns: 182
+recorded in pagetable: 183 
+user 256 allocatedNewInt returns: 183
+recorded in pagetable: 184 
+user 256 allocatedNewInt returns: 184
+recorded in pagetable: 185 
+user 256 allocatedNewInt returns: 185
+recorded in pagetable: 186 
+user 256 allocatedNewInt returns: 186
+recorded in pagetable: 187 
+user 256 allocatedNewInt returns: 187
+recorded in pagetable: 188 
+user 256 allocatedNewInt returns: 188
+recorded in pagetable: 189 
+user 256 allocatedNewInt returns: 189
+recorded in pagetable: 190 
+user 256 allocatedNewInt returns: 190
+recorded in pagetable: 191 
+user 256 allocatedNewInt returns: 191
+recorded in pagetable: 192 
+user 256 allocatedNewInt returns: 192
+recorded in pagetable: 193 
+user 256 allocatedNewInt returns: 193
+recorded in pagetable: 194 
+user 256 allocatedNewInt returns: 194
+recorded in pagetable: 195 
+user 256 allocatedNewInt returns: 195
+recorded in pagetable: 196 
+user 256 allocatedNewInt returns: 196
+recorded in pagetable: 197 
+user 256 allocatedNewInt returns: 197
+recorded in pagetable: 198 
+user 256 allocatedNewInt returns: 198
+recorded in pagetable: 199 
+user 256 allocatedNewInt returns: 199
+recorded in pagetable: 200 
+user 256 allocatedNewInt returns: 200
+user 256, value is 256 
+
+RAM INFO
+allocated  lock	   data
+1	    0	    0	
+1	    0	    256	
+1	    0	    256	
+1	    0	    256	
+1	    0	    256	
+1	    0	    256	
+1	    0	    256	
+1	    0	    256	
+1	    0	    256	
+1	    0	    256	
+1	    0	    256	
+1	    0	    256	
+1	    0	    256	
+1	    0	    256	
+1	    0	    256	
+1	    0	    256	
+1	    0	    256	
+1	    0	    256	
+1	    0	    256	
+1	    0	    256	
+1	    0	    256	
+1	    0	    256	
+1	    0	    256	
+1	    0	    256	
+1	    0	    256	
+
+recorded in pagetable: 1 
+user 65536 allocatedNewInt returns: 1
+recorded in pagetable: 2 
+user 16777216 allocatedNewInt returns: 2
+recorded in pagetable: 3 
+user 16777216 allocatedNewInt returns: 3
+recorded in pagetable: 4 
+user 16777216 allocatedNewInt returns: 4
+recorded in pagetable: 5 
+user 16777216 allocatedNewInt returns: 5
+recorded in pagetable: 6 
+user 16777216 allocatedNewInt returns: 6
+recorded in pagetable: 7 
+user 16777216 allocatedNewInt returns: 7
+recorded in pagetable: 8 
+user 16777216 allocatedNewInt returns: 8
+recorded in pagetable: 9 
+user 16777216 allocatedNewInt returns: 9
+recorded in pagetable: 10 
+user 16777216 allocatedNewInt returns: 10
+recorded in pagetable: 11 
+user 16777216 allocatedNewInt returns: 11
+recorded in pagetable: 12 
+user 16777216 allocatedNewInt returns: 12
+recorded in pagetable: 13 
+user 16777216 allocatedNewInt returns: 13
+recorded in pagetable: 14 
+user 16777216 allocatedNewInt returns: 14
+recorded in pagetable: 15 
+user 16777216 allocatedNewInt returns: 15
+recorded in pagetable: 16 
+user 16777216 allocatedNewInt returns: 16
+recorded in pagetable: 17 
+user 16777216 allocatedNewInt returns: 17
+recorded in pagetable: 18 
+user 16777216 allocatedNewInt returns: 18
+recorded in pagetable: 19 
+user 16777216 allocatedNewInt returns: 19
+recorded in pagetable: 20 
+user 16777216 allocatedNewInt returns: 20
+recorded in pagetable: 21 
+user 16777216 allocatedNewInt returns: 21
+recorded in pagetable: 22 
+user 16777216 allocatedNewInt returns: 22
+recorded in pagetable: 23 
+user 16777216 allocatedNewInt returns: 23
+recorded in pagetable: 24 
+user 16777216 allocatedNewInt returns: 24
+recorded in pagetable: 25 
+user 16777216 allocatedNewInt returns: 25
+recorded in pagetable: 26 
+user 16777216 allocatedNewInt returns: 26
+recorded in pagetable: 27 
+user 16777216 allocatedNewInt returns: 27
+recorded in pagetable: 28 
+user 16777216 allocatedNewInt returns: 28
+recorded in pagetable: 29 
+user 16777216 allocatedNewInt returns: 29
+recorded in pagetable: 30 
+user 16777216 allocatedNewInt returns: 30
+recorded in pagetable: 31 
+user 16777216 allocatedNewInt returns: 31
+recorded in pagetable: 32 
+user 16777216 allocatedNewInt returns: 32
+recorded in pagetable: 33 
+user 16777216 allocatedNewInt returns: 33
+recorded in pagetable: 34 
+user 16777216 allocatedNewInt returns: 34
+recorded in pagetable: 35 
+user 16777216 allocatedNewInt returns: 35
+recorded in pagetable: 36 
+user 16777216 allocatedNewInt returns: 36
+recorded in pagetable: 37 
+user 16777216 allocatedNewInt returns: 37
+recorded in pagetable: 38 
+user 16777216 allocatedNewInt returns: 38
+recorded in pagetable: 39 
+user 16777216 allocatedNewInt returns: 39
+recorded in pagetable: 40 
+user 16777216 allocatedNewInt returns: 40
+recorded in pagetable: 41 
+user 16777216 allocatedNewInt returns: 41
+recorded in pagetable: 42 
+user 16777216 allocatedNewInt returns: 42
+recorded in pagetable: 43 
+user 16777216 allocatedNewInt returns: 43
+recorded in pagetable: 44 
+user 16777216 allocatedNewInt returns: 44
+recorded in pagetable: 45 
+user 16777216 allocatedNewInt returns: 45
+recorded in pagetable: 46 
+user 16777216 allocatedNewInt returns: 46
+recorded in pagetable: 47 
+user 16777216 allocatedNewInt returns: 47
+recorded in pagetable: 48 
+user 16777216 allocatedNewInt returns: 48
+recorded in pagetable: 49 
+user 16777216 allocatedNewInt returns: 49
+recorded in pagetable: 50 
+user 16777216 allocatedNewInt returns: 50
+recorded in pagetable: 51 
+user 16777216 allocatedNewInt returns: 51
+recorded in pagetable: 52 
+user 16777216 allocatedNewInt returns: 52
+recorded in pagetable: 53 
+user 16777216 allocatedNewInt returns: 53
+recorded in pagetable: 54 
+user 16777216 allocatedNewInt returns: 54
+recorded in pagetable: 55 
+user 16777216 allocatedNewInt returns: 55
+recorded in pagetable: 56 
+user 16777216 allocatedNewInt returns: 56
+recorded in pagetable: 57 
+user 16777216 allocatedNewInt returns: 57
+recorded in pagetable: 58 
+user 16777216 allocatedNewInt returns: 58
+recorded in pagetable: 59 
+user 16777216 allocatedNewInt returns: 59
+recorded in pagetable: 60 
+user 16777216 allocatedNewInt returns: 60
+recorded in pagetable: 61 
+user 16777216 allocatedNewInt returns: 61
+recorded in pagetable: 62 
+user 16777216 allocatedNewInt returns: 62
+recorded in pagetable: 63 
+user 16777216 allocatedNewInt returns: 63
+recorded in pagetable: 64 
+user 16777216 allocatedNewInt returns: 64
+recorded in pagetable: 65 
+user 16777216 allocatedNewInt returns: 65
+recorded in pagetable: 66 
+user 16777216 allocatedNewInt returns: 66
+recorded in pagetable: 67 
+user 16777216 allocatedNewInt returns: 67
+recorded in pagetable: 68 
+user 16777216 allocatedNewInt returns: 68
+recorded in pagetable: 69 
+user 16777216 allocatedNewInt returns: 69
+recorded in pagetable: 70 
+user 16777216 allocatedNewInt returns: 70
+recorded in pagetable: 71 
+user 16777216 allocatedNewInt returns: 71
+recorded in pagetable: 72 
+user 16777216 allocatedNewInt returns: 72
+recorded in pagetable: 73 
+user 16777216 allocatedNewInt returns: 73
+recorded in pagetable: 74 
+user 16777216 allocatedNewInt returns: 74
+recorded in pagetable: 75 
+user 16777216 allocatedNewInt returns: 75
+recorded in pagetable: 76 
+user 16777216 allocatedNewInt returns: 76
+recorded in pagetable: 77 
+user 16777216 allocatedNewInt returns: 77
+recorded in pagetable: 78 
+user 16777216 allocatedNewInt returns: 78
+recorded in pagetable: 79 
+user 16777216 allocatedNewInt returns: 79
+recorded in pagetable: 80 
+user 16777216 allocatedNewInt returns: 80
+recorded in pagetable: 81 
+user 16777216 allocatedNewInt returns: 81
+recorded in pagetable: 82 
+user 16777216 allocatedNewInt returns: 82
+recorded in pagetable: 83 
+user 16777216 allocatedNewInt returns: 83
+recorded in pagetable: 84 
+user 16777216 allocatedNewInt returns: 84
+recorded in pagetable: 85 
+user 16777216 allocatedNewInt returns: 85
+recorded in pagetable: 86 
+user 16777216 allocatedNewInt returns: 86
+recorded in pagetable: 87 
+user 16777216 allocatedNewInt returns: 87
+recorded in pagetable: 88 
+user 16777216 allocatedNewInt returns: 88
+recorded in pagetable: 89 
+user 16777216 allocatedNewInt returns: 89
+recorded in pagetable: 90 
+user 16777216 allocatedNewInt returns: 90
+recorded in pagetable: 91 
+user 16777216 allocatedNewInt returns: 91
+recorded in pagetable: 92 
+user 16777216 allocatedNewInt returns: 92
+recorded in pagetable: 93 
+user 16777216 allocatedNewInt returns: 93
+recorded in pagetable: 94 
+user 16777216 allocatedNewInt returns: 94
+recorded in pagetable: 95 
+user 16777216 allocatedNewInt returns: 95
+recorded in pagetable: 96 
+user 16777216 allocatedNewInt returns: 96
+recorded in pagetable: 97 
+user 16777216 allocatedNewInt returns: 97
+recorded in pagetable: 98 
+user 16777216 allocatedNewInt returns: 98
+recorded in pagetable: 99 
+user 16777216 allocatedNewInt returns: 99
+recorded in pagetable: 100 
+user 16777216 allocatedNewInt returns: 100
+recorded in pagetable: 101 
+user 16777216 allocatedNewInt returns: 101
+recorded in pagetable: 102 
+user 16777216 allocatedNewInt returns: 102
+recorded in pagetable: 103 
+user 16777216 allocatedNewInt returns: 103
+recorded in pagetable: 104 
+user 16777216 allocatedNewInt returns: 104
+recorded in pagetable: 105 
+user 16777216 allocatedNewInt returns: 105
+recorded in pagetable: 106 
+user 16777216 allocatedNewInt returns: 106
+recorded in pagetable: 107 
+user 16777216 allocatedNewInt returns: 107
+recorded in pagetable: 108 
+user 16777216 allocatedNewInt returns: 108
+recorded in pagetable: 109 
+user 16777216 allocatedNewInt returns: 109
+recorded in pagetable: 110 
+user 16777216 allocatedNewInt returns: 110
+recorded in pagetable: 111 
+user 16777216 allocatedNewInt returns: 111
+recorded in pagetable: 112 
+user 16777216 allocatedNewInt returns: 112
+recorded in pagetable: 113 
+user 16777216 allocatedNewInt returns: 113
+recorded in pagetable: 114 
+user 16777216 allocatedNewInt returns: 114
+recorded in pagetable: 115 
+user 16777216 allocatedNewInt returns: 115
+recorded in pagetable: 116 
+user 16777216 allocatedNewInt returns: 116
+recorded in pagetable: 117 
+user 16777216 allocatedNewInt returns: 117
+recorded in pagetable: 118 
+user 16777216 allocatedNewInt returns: 118
+recorded in pagetable: 119 
+user 16777216 allocatedNewInt returns: 119
+recorded in pagetable: 120 
+user 16777216 allocatedNewInt returns: 120
+recorded in pagetable: 121 
+user 16777216 allocatedNewInt returns: 121
+recorded in pagetable: 122 
+user 16777216 allocatedNewInt returns: 122
+recorded in pagetable: 123 
+user 16777216 allocatedNewInt returns: 123
+recorded in pagetable: 124 
+user 16777216 allocatedNewInt returns: 124
+recorded in pagetable: 125 
+user 16777216 allocatedNewInt returns: 125
+recorded in pagetable: 126 
+user 16777216 allocatedNewInt returns: 126
+recorded in pagetable: 127 
+user 16777216 allocatedNewInt returns: 127
+recorded in pagetable: 128 
+user 16777216 allocatedNewInt returns: 128
+recorded in pagetable: 129 
+user 16777216 allocatedNewInt returns: 129
+recorded in pagetable: 130 
+user 16777216 allocatedNewInt returns: 130
+recorded in pagetable: 131 
+user 16777216 allocatedNewInt returns: 131
+recorded in pagetable: 132 
+user 16777216 allocatedNewInt returns: 132
+recorded in pagetable: 133 
+user 16777216 allocatedNewInt returns: 133
+recorded in pagetable: 134 
+user 16777216 allocatedNewInt returns: 134
+recorded in pagetable: 135 
+user 16777216 allocatedNewInt returns: 135
+recorded in pagetable: 136 
+user 16777216 allocatedNewInt returns: 136
+recorded in pagetable: 137 
+user 16777216 allocatedNewInt returns: 137
+recorded in pagetable: 138 
+user 16777216 allocatedNewInt returns: 138
+recorded in pagetable: 139 
+user 16777216 allocatedNewInt returns: 139
+recorded in pagetable: 140 
+user 16777216 allocatedNewInt returns: 140
+recorded in pagetable: 141 
+user 16777216 allocatedNewInt returns: 141
+recorded in pagetable: 142 
+user 16777216 allocatedNewInt returns: 142
+recorded in pagetable: 143 
+user 16777216 allocatedNewInt returns: 143
+recorded in pagetable: 144 
+user 16777216 allocatedNewInt returns: 144
+recorded in pagetable: 145 
+user 16777216 allocatedNewInt returns: 145
+recorded in pagetable: 146 
+user 16777216 allocatedNewInt returns: 146
+recorded in pagetable: 147 
+user 16777216 allocatedNewInt returns: 147
+recorded in pagetable: 148 
+user 16777216 allocatedNewInt returns: 148
+recorded in pagetable: 149 
+user 16777216 allocatedNewInt returns: 149
+recorded in pagetable: 150 
+user 16777216 allocatedNewInt returns: 150
+recorded in pagetable: 151 
+user 16777216 allocatedNewInt returns: 151
+recorded in pagetable: 152 
+user 16777216 allocatedNewInt returns: 152
+recorded in pagetable: 153 
+user 16777216 allocatedNewInt returns: 153
+recorded in pagetable: 154 
+user 16777216 allocatedNewInt returns: 154
+recorded in pagetable: 155 
+user 16777216 allocatedNewInt returns: 155
+recorded in pagetable: 156 
+user 16777216 allocatedNewInt returns: 156
+recorded in pagetable: 157 
+user 16777216 allocatedNewInt returns: 157
+recorded in pagetable: 158 
+user 16777216 allocatedNewInt returns: 158
+recorded in pagetable: 159 
+user 16777216 allocatedNewInt returns: 159
+recorded in pagetable: 160 
+user 16777216 allocatedNewInt returns: 160
+recorded in pagetable: 161 
+user 16777216 allocatedNewInt returns: 161
+recorded in pagetable: 162 
+user 16777216 allocatedNewInt returns: 162
+recorded in pagetable: 163 
+user 16777216 allocatedNewInt returns: 163
+recorded in pagetable: 164 
+user 16777216 allocatedNewInt returns: 164
+recorded in pagetable: 165 
+user 16777216 allocatedNewInt returns: 165
+recorded in pagetable: 166 
+user 16777216 allocatedNewInt returns: 166
+recorded in pagetable: 167 
+user 16777216 allocatedNewInt returns: 167
+recorded in pagetable: 168 
+user 16777216 allocatedNewInt returns: 168
+recorded in pagetable: 169 
+user 16777216 allocatedNewInt returns: 169
+recorded in pagetable: 170 
+user 16777216 allocatedNewInt returns: 170
+recorded in pagetable: 171 
+user 16777216 allocatedNewInt returns: 171
+recorded in pagetable: 172 
+user 16777216 allocatedNewInt returns: 172
+recorded in pagetable: 173 
+user 16777216 allocatedNewInt returns: 173
+recorded in pagetable: 174 
+user 16777216 allocatedNewInt returns: 174
+recorded in pagetable: 175 
+user 16777216 allocatedNewInt returns: 175
+recorded in pagetable: 176 
+user 16777216 allocatedNewInt returns: 176
+recorded in pagetable: 177 
+user 16777216 allocatedNewInt returns: 177
+recorded in pagetable: 178 
+user 16777216 allocatedNewInt returns: 178
+recorded in pagetable: 179 
+user 16777216 allocatedNewInt returns: 179
+recorded in pagetable: 180 
+user 16777216 allocatedNewInt returns: 180
+recorded in pagetable: 181 
+user 16777216 allocatedNewInt returns: 181
+recorded in pagetable: 182 
+user 16777216 allocatedNewInt returns: 182
+recorded in pagetable: 183 
+user 16777216 allocatedNewInt returns: 183
+recorded in pagetable: 184 
+user 16777216 allocatedNewInt ret

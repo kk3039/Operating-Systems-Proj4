@@ -1,0 +1,16 @@
+testing_methodology.txt
+Ying LU
+Qiaoyu LIAO
+
+
+in thread:
+
+6 users, each to add 200 data in the shared memory. As the virtual memory can hold up to 1000 data, seg faults or infinite loops might occur because no memory is available.
+
+The users ask the OS to allocate them a page and instantly access the page frame and try to access. when they are done with the 200 loop, they will access the oldest data to see if it is changed. They will also print the ram table to make sure everything is working. They free the space after that.
+
+
+
+in evict1 && evict2:
+
+single user trying to write 1002 data into the VM, which is impossible due to the limit. Errors will be printed and user will only get 1000 pages. They access the data after getting the space, then unlock the space. After the loop, the user free up the space. VM storage array will be printed to verify the user's activity.
